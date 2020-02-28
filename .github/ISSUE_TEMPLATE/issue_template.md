@@ -1,9 +1,8 @@
 ---
 name: 버그 신고
 about: 나타나는 버그를 제보해주세요!
-title: 버그 신고
+title: 
 labels: bug
-assignees: ''
 
 ---
 
