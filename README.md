@@ -1,2 +1,3 @@
 # sk7725.github.io
-Doki Doki 42 Hosting!
+/command: Commandblocks Website!
+/dd42: Doki Doki 42 Hosting!
